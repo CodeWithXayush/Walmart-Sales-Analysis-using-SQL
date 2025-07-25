@@ -3,13 +3,6 @@
 This project presents an in-depth analysis of Walmart sales data across different branches, product lines, customer types, cities, and transaction patterns. The analysis is aimed at uncovering key business insights to aid strategic decision-making.
 
 ---
-
-## 👨‍💻 By
-
-**Ayush Kumar**
-
----
-
 ## 📌 Overview
 
 This analysis covers:
@@ -107,7 +100,11 @@ walmart-sales-analysis/
 - Real-time dashboard using Power BI or Tableau
 
 ---
+## 🧑‍💻 Author
 
+**Ayush Kumar**  
+B.Tech CSE | Data Analyst Enthusiast  
+[LinkedIn]( http://www.linkedin.com/in/ayush-kumar-4137 ) | [GitHub]( https://github.com/CodeWithXayush )
 
 
 ---
